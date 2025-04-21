@@ -1,0 +1,9 @@
+﻿<Application x:Class="Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh"
+             StartupUri="View/LoginView.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
