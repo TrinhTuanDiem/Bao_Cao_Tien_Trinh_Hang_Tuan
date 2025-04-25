@@ -8,9 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/back-quandoi.jpg")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/key-icon.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/logo_q%c4%90ndvn.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/user-icon.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/key.png")]
 
 

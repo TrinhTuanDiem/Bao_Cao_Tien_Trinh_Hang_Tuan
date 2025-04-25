@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{642C74B8-D0C6-45EE-91C1-840B88AF169E}|Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh.csproj|solutionrelative:phan_mem_quan_ly_cham_diem_hoi_thi_dieu_lenh\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642C74B8-D0C6-45EE-91C1-840B88AF169E}|Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh.csproj|d:\\datn\\manguon_c#\\phan_mem_quan_ly_cham_diem_hoi_thi_dieu_lenh\\phan_mem_quan_ly_cham_diem_hoi_thi_dieu_lenh\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{642C74B8-D0C6-45EE-91C1-840B88AF169E}|Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh.csproj|D:\\DATN\\MaNguon_C#\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\phan_mem_quan_ly_cham_diem_hoi_thi_dieu_lenh\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{642C74B8-D0C6-45EE-91C1-840B88AF169E}|Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh.csproj|solutionrelative:phan_mem_quan_ly_cham_diem_hoi_thi_dieu_lenh\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{642C74B8-D0C6-45EE-91C1-840B88AF169E}|Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh.csproj|d:\\datn\\manguon_c#\\phan_mem_quan_ly_cham_diem_hoi_thi_dieu_lenh\\phan_mem_quan_ly_cham_diem_hoi_thi_dieu_lenh\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{642C74B8-D0C6-45EE-91C1-840B88AF169E}|Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh.csproj|D:\\DATN\\MaNguon_C#\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\phan_mem_quan_ly_cham_diem_hoi_thi_dieu_lenh\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{642C74B8-D0C6-45EE-91C1-840B88AF169E}|Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh.csproj|solutionrelative:phan_mem_quan_ly_cham_diem_hoi_thi_dieu_lenh\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -31,12 +31,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "View\\LoginView.xaml.cs",
+              "Title": "LoginView.xaml.cs",
               "DocumentMoniker": "D:\\DATN\\MaNguon_C#\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\View\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\View\\LoginView.xaml.cs",
               "ToolTip": "D:\\DATN\\MaNguon_C#\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\View\\LoginView.xaml.cs",
               "RelativeToolTip": "Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\View\\LoginView.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T20:43:01.579Z",
               "EditorCaption": ""
@@ -59,8 +59,8 @@
               "Title": "LoginView.xaml",
               "DocumentMoniker": "D:\\DATN\\MaNguon_C#\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\View\\LoginView.xaml",
               "RelativeDocumentMoniker": "Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\View\\LoginView.xaml",
-              "ToolTip": "D:\\DATN\\MaNguon_C#\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\View\\LoginView.xaml*",
-              "RelativeToolTip": "Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\View\\LoginView.xaml*",
+              "ToolTip": "D:\\DATN\\MaNguon_C#\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\View\\LoginView.xaml",
+              "RelativeToolTip": "Phan_Mem_Quan_Ly_Cham_Diem_Hoi_Thi_Dieu_Lenh\\View\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-21T20:35:53.002Z",
               "EditorCaption": ""

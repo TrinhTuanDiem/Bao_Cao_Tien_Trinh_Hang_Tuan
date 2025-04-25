@@ -55,10 +55,24 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Model\CandidateModel.cs" />
+    <Compile Include="Model\DetailMistakeModel.cs" />
+    <Compile Include="Model\ExamModel.cs" />
+    <Compile Include="Model\IUserRepository.cs" />
+    <Compile Include="Model\MistakeModel.cs" />
+    <Compile Include="Model\AccountModel.cs" />
+    <Compile Include="Model\Person.cs" />
+    <Compile Include="ViewModel\ListOfCandidatesViewModel.cs" />
+    <Compile Include="ViewModel\LoginViewModel.cs" />
+    <Compile Include="ViewModel\RegisterViewModel.cs" />
+    <Compile Include="ViewModel\ResultViewModel.cs" />
+    <Compile Include="ViewModel\TestViewModel.cs" />
+    <Compile Include="ViewModel\ViewModelBase.cs" />
+    <Compile Include="ViewModel\ViewModelCommand.cs" />
     <Compile Include="View\LoginView.xaml.cs">
       <DependentUpon>LoginView.xaml</DependentUpon>
     </Compile>
-    <Page Include="MainWindow.xaml">
+    <Page Include="View\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -66,7 +80,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
+    <Compile Include="View\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
@@ -102,14 +116,18 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Model\" />
-    <Folder Include="ViewModel\" />
+    <Folder Include="CustomControls\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Styles\" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\back-quandoi.jpg" />
-    <Resource Include="Images\Key-icon.png" />
-    <Resource Include="Images\Logo_QĐNDVN.png" />
+  </ItemGroup>
+  <ItemGroup>
     <Resource Include="Images\user-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\key.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
